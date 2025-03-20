@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/app/nocobase/storage/logs/main/notification-manager/.e4251198da65a4dfc0608f30cada246ed1ed16a1-audit.json",
+    "files": [
+        {
+            "date": 1742431349395,
+            "name": "/app/nocobase/storage/logs/main/notification-manager/2025-03-20.log",
+            "hash": "834ee9aef171d0a173b4fd6e1f8c8149f4b6f9ffc3e09c2ec90f89d0d1aa3f62"
+        }
+    ],
+    "hashType": "sha256"
+}
